@@ -1,0 +1,26 @@
+body{
+    background: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+.component{
+}
+.fi{
+    display: inline-block;
+    width: 50%;
+    margin: 0;
+}
+.text{
+    margin: 0;
+    width: 100%;
+}
+.Green{
+    background: #8afc8a;
+
+}
+.red{
+    background: #fc8a8a;
+}
+.blue{
+    background: #8e8afc;
+}
